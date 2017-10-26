@@ -1,3 +1,2 @@
-Project:	test
+Project:	Hello World!	
 Author:		Dong Daming
-Date:		2017/10/26
